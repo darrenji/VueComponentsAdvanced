@@ -1,12 +1,14 @@
 <template>
     <div>
-        <p>A wonderful Qutoe!</p>
+        <slot></slot>
     </div>
 </template>
 
 
 <script>
+    export default {
 
+    }
 </script>
 
 
